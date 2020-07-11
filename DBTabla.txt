@@ -1,0 +1,6 @@
+CREATE TABLE Animal(
+idanimal INTEGER NOT NULL,
+pesoanimal NUMERIC(20,2),
+edadanimal NUMERIC (5),
+sexoanimal VARCHAR (20),
+tipoanimal VARCHAR (15));
